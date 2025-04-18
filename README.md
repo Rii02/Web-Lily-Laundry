@@ -6,8 +6,13 @@
 
 # Deskripsi Aplikasi
 Aplikasi Lily Laundry adalah sistem manajemen laundry berbasis web yang dirancang untuk mengoptimalkan operasional usaha laundry. Dengan memanfaatkan teknologi terkini seperti PHP, JavaScript, serta dukungan framework Bootstrap dan jQuery, aplikasi ini menyederhanakan proses pengelolaan data pelanggan, pencatatan pesanan, dan pembuatan laporan. Sistem ini memiliki pengguna utama:
+
+Admin: Bertanggung jawab untuk mengelola jenis laundry, menentukan harga dan membuat laporan.
+Kasir: Bertanggung jawab untuk mengelola transaksi pelanggan
+
 - Admin: Bertanggung jawab untuk mengelola jenis laundry, menentukan harga dan membuat laporan.
 - Kasir: Bertanggung jawab untuk mengelola transaksi pelanggan
+pelanggan
 
 # Fungsi Aplikasi
 Web lily laundry ini berfungsi untuk mempermudah mengelola operasional laundry dengan dilengkapi fitur:
