@@ -35,6 +35,8 @@ Tujuan pembuatan aplikasi Lily Laundry sebagai berikut:
 Project aplikasi Web Lily Laundry ini kami buat untuk memenuhi tugas dari mata kuliah Pemrograman Web pada Prodi S1 [Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/) dari [Fakultas Teknik](https://ft.unesa.ac.id/) di [Universitas Negeri Surabaya](https://unesa.ac.id/)
 
 # View Aplikasi
+Login Page
+![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Login%20Page.png?raw=true)
 
 
 
