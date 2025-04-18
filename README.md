@@ -44,7 +44,7 @@ Laundry Type Page
 Add Officer Page
 ![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Add%20Officer%20Page.png?raw=true)
 Report Page
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Report%20Page.png?raw=true)
+![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Report%20Page%202.png?raw=true)
 Kasir Page
 ![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Kasir%20Pov%20(Dashboard%20Page).png?raw=true)
 
