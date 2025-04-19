@@ -1,6 +1,8 @@
 # Lily Laundry
 
 # Poster
+![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/poster1.png?raw=true)
+![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/poster2.png?raw=true)
 
 
 
