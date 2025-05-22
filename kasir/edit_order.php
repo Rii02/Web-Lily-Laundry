@@ -86,6 +86,10 @@ $conn->close();
                 <i class="fas fa-home text-lg"></i>
                 <span class="font-medium">Dashboard</span>
             </a>
+            <a class="flex items-center space-x-3 bg-blue-700 hover:bg-blue-900 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="pengeluaran_lain.php">
+                <i class="fas fa-wallet text-lg"></i>
+                <span class="font-medium">Pengeluaran Lain</span>
+            </a>
             <a class="flex items-center space-x-3 bg-blue-700 hover:bg-blue-900 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="report.php">
                 <i class="fas fa-chart-line text-lg"></i>
                 <span class="font-medium">Report</span>

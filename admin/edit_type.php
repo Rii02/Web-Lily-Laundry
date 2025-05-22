@@ -8,7 +8,7 @@ include '../config/config.php';
 
 // Periksa apakah ID type sudah diterima
 if (!isset($_GET['id']) || empty($_GET['id'])) {
-    header("Location: home.php?error=Invalid ID");
+    header("Location: type.php?error=Invalid ID");
     exit;
 }
 
@@ -23,7 +23,7 @@ $type = $result->fetch_assoc();
 $stmt->close();
 
 if (!$type) {
-    header("Location: home.php?error=Data not found");
+    header("Location: type.php?error=Data not found");
     exit;
 }
 
@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $stmt->bind_param("sii", $type_laundry, $price, $id);
         
         if ($stmt->execute()) {
-            header("Location: home.php?success=Data updated successfully");
+            header("Location: type.php?success=Data updated successfully");
             exit;
         } else {
             $error = "Gagal memperbarui data!";
@@ -76,6 +76,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <a class="flex items-center space-x-3 bg-blue-600 hover:bg-blue-800 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="officer.php">
                 <i class="fas fa-users text-lg"></i>
                 <span class="font-medium">Add Officer</span>
+            </a>
+            <a class="flex items-center space-x-3 bg-blue-600 hover:bg-blue-800 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="pengeluaran_lain.php">
+                <i class="fas fa-wallet text-lg"></i>
+                <span class="font-medium">Pengeluaran Lain</span>
             </a>
             <a class="flex items-center space-x-3 bg-blue-600 hover:bg-blue-800 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="report.php">
                 <i class="fas fa-chart-line text-lg"></i>

@@ -88,6 +88,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <i class="fas fa-users text-lg"></i>
                 <span class="font-medium">Add Officer</span>
             </a>
+            <a class="flex items-center space-x-3 bg-blue-600 hover:bg-blue-800 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="pengeluaran_lain.php">
+                <i class="fas fa-wallet text-lg"></i>
+                <span class="font-medium">Pengeluaran Lain</span>
+            </a>
             <a class="flex items-center space-x-3 bg-blue-600 hover:bg-blue-800 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="report.php">
                 <i class="fas fa-chart-line text-lg"></i>
                 <span class="font-medium">Report</span>

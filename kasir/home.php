@@ -35,6 +35,10 @@ include '../config/config.php'; // Koneksi ke database
                 <i class="fas fa-home text-lg"></i>
                 <span class="font-medium">Dashboard</span>
             </a>
+            <a class="flex items-center space-x-3 bg-blue-700 hover:bg-blue-900 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="pengeluaran_lain.php">
+                <i class="fas fa-wallet text-lg"></i>
+                <span class="font-medium">Pengeluaran Lain</span>
+            </a>
             <a class="flex items-center space-x-3 bg-blue-700 hover:bg-blue-900 p-3 rounded-lg transition duration-300 transform hover:scale-105 shadow-md" href="report.php">
                 <i class="fas fa-chart-line text-lg"></i>
                 <span class="font-medium">Report</span>
@@ -53,7 +57,7 @@ include '../config/config.php'; // Koneksi ke database
             <div class="flex items-center space-x-6">
                 <span class="text-white text-lg font-medium flex items-center">
                     <i class="fas fa-user-circle text-white text-xl mr-2"></i>
-                    Welcome <?php echo htmlspecialchars($_SESSION['username']); ?>!
+                    Welcome, <?php echo htmlspecialchars($_SESSION['username']); ?>!
                 </span>
                 <a href="../logout.php" class="bg-red-600 hover:bg-red-700 text-white px-5 py-2 rounded-lg flex items-center shadow-lg transition duration-300 transform hover:scale-110">
                     <i class="fas fa-sign-out-alt mr-2"></i> Logout
