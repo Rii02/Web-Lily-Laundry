@@ -1,7 +1,7 @@
 # Lily Laundry
 
 # Poster
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/poster1.png?raw=true)
+![_Blue Minimalist  Illustration Laundry Service Poster](https://github.com/user-attachments/assets/961cdf6f-9070-405d-892d-732a132943e0)
 ![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/poster2.png?raw=true)
 
 
