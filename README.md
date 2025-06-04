@@ -40,15 +40,16 @@ Project aplikasi Web Lily Laundry ini kami buat untuk memenuhi tugas dari mata k
 Login Page
 ![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Login%20Page.png?raw=true)
 Admin Page
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Admin%20Pov%20(Dashboard%20Page)%20(2).png?raw=true)
+![Admin Pov (Dashboard Page) (3)](https://github.com/user-attachments/assets/6cabe15e-1df7-4b07-9a41-9e7fc922f167)
 Laundry Type Page
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Laundry%20Type%20Page.png?raw=true)
+![Laundry Type Page (1)](https://github.com/user-attachments/assets/c640cf40-d19e-4eb0-8e25-d6fa4e3ddaa5)
 Add Officer Page
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Add%20Officer%20Page.png?raw=true)
+![Add Officer Page (1)](https://github.com/user-attachments/assets/0fde9427-5f35-4b5e-bb03-9e7171896385)
 Report Page
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Report%20Page%202.png?raw=true)
+![Report Page (1)](https://github.com/user-attachments/assets/3b3c3156-ebcc-4818-89ff-a1972d16d60e)
 Kasir Page
-![alt text](https://github.com/Rii02/Web-Lily-Laundry/blob/main/Kasir%20Pov%20(Dashboard%20Page).png?raw=true)
+![Kasir Pov (Dashboard Page) (1)](https://github.com/user-attachments/assets/42c49a3c-ba5a-4413-bf4a-e56df2dbbec3)
+
 
 
 
